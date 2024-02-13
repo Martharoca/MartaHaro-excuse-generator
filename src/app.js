@@ -34,13 +34,3 @@ let writeExcuse = () => {
     when[whenIndex]
   );
 };
-
-//write your code here
-// declaramos los arrays que me dan
-//obtener un valor random de cada array
-// concatenar los valores random para armar la oración
-//
-
-// console.log("Hello Rigo from the console!");
-// en el doc html obtengo un elemento a traves de su id
-// document.getElementById(“demo”).innerHTML = “aqui pongo la excusa que vaya a generar”;
