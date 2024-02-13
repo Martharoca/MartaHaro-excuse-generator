@@ -3,7 +3,7 @@ import "bootstrap";
 import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
-import "src/assets/img/berry.ico";
+import "./assets/img/cherry.ico";
 
 window.onload = function() {
   document.querySelector("#excuse").innerHTML = writeExcuse();
